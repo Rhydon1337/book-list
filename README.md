@@ -8,4 +8,4 @@ All of the books that I recently read
 5. Getting Things Done - David Allen
 6. Who Moved My Cheese?
 7. Speed Reading - Kam Knight
-8. The wisdom of indifference - Mark Manson
+8. The Wisdom Of Indifference - Mark Manson
