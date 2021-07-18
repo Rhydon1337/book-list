@@ -1,5 +1,5 @@
 # Books-I-read
-All of the books that I recently read
+All the books that I recently read
 
 1. Windows Internals 7th Part 1
 2. Understanding The Linux Kernel
