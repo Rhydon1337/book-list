@@ -9,3 +9,4 @@ All books that I recently read
 6. Who Moved My Cheese?
 7. Speed Reading - Kam Knight
 8. The Wisdom Of Indifference - Mark Manson
+9. Rich Dad Poor Dad
