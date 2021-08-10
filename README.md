@@ -11,3 +11,4 @@ All books that I recently read
 8. The Wisdom Of Indifference - Mark Manson
 9. Rich Dad Poor Dad
 10. Predictably Irrational - Dan Ariely
+11. The Jewish State - Theodore Herzl
