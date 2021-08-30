@@ -12,3 +12,4 @@ All books that I recently read
 9. Rich Dad Poor Dad
 10. Predictably Irrational - Dan Ariely
 11. The Jewish State - Theodore Herzl
+12. Surrounded By Idiots
