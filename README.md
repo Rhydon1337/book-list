@@ -1,10 +1,10 @@
 # Books-I-read
 All books that I recently read
 
-1. Windows Internals 7th Part 1
-2. Understanding The Linux Kernel
-3. Linux Device Drivers (Ldd3)
-4. Windows Kernel Programming
+1. Windows Internals 7th edition Part 1 - Pavel Yosifovich, Mark Russinovich, David Solomon and Alex Ionescu
+2. Understanding The Linux Kernel 3th edition - Daniel Pierre Bovet and Marco Cesati
+3. Linux Device Drivers 3th edition - Jonathan Corbet, Alessandro Rubini and Greg Kroah-Hartman
+4. Windows Kernel Programming - Pavel Yosifovich
 5. Getting Things Done - David Allen
 6. Who Moved My Cheese? - Spencer Johnson
 7. Speed Reading - Kam Knight
