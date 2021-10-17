@@ -18,3 +18,4 @@ All books that I recently read
 15. Finding Your Element - Ken Robinson
 16. Diagnostic And Statistical Manual Of Mental Disorders (DSM–5) - American Psychiatric Association
 17. The Greatest Salesman In the World - Og Mandino
+18. Dark Psychology And Manipulation - William Cooper
